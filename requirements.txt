@@ -1,0 +1,5 @@
+# Selective Search for Object Recognition
+# Core dependencies for the algorithm
+
+numpy>=1.19.0                    # Numerical operations, array handling
+scikit-image>=0.18.0             # Image processing (Felzenszwalb segmentation)
