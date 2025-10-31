@@ -847,24 +847,14 @@ class SelectiveSearchCustom(SelectiveSearch):
 
 ## License
 
-This implementation is provided for educational and research purposes.
+This implementation is provided under the **MIT License**. See LICENSE file for details.
 
-## Citation
+You are free to:
+- ✅ Use this code for personal, educational, or commercial projects
+- ✅ Modify and distribute the code
+- ✅ Use with or without attribution (though attribution is appreciated)
 
-If you use this implementation in your research, please cite:
-
-```bibtex
-@article{uijlings2013selective,
-  title={Selective search for object recognition},
-  author={Uijlings, JRR and Van De Sande, KE and Gevers, T and Smeulders, AWM},
-  journal={International journal of computer vision},
-  volume={104},
-  number={2},
-  pages={154--171},
-  year={2013},
-  publisher={Springer}
-}
-```
+The only requirement is to include the license notice in your distributions.
 
 ## Questions & Troubleshooting
 
